@@ -21,7 +21,7 @@ All of the following code required default/ target values to run properly.
 
 3. [**_02a_reproduce_final_results_by_weighted_vF.R**] Aim: Produce network statistics, risk scores (PRS [mixed]/ SRS [mixed_active]), risk contribution by weighted matrix 
 
-4. [**_02b_reproduce_final_results_by_binarized_vF.R**] Aim: Produce network statistics, risk scores (PRS [mixed]/ SRS [mixed_active]), risk contribution by binarized matrix (r= 0.4, 0.5, 0.6), and different imputation cutoff (0.5, 0.6, 0.7, 0.8)
+4. [**_02b_reproduce_final_results_by_binarized_vF.R**] Aim: Produce network statistics, risk scores (PRS [mixed]/ SRS [mixed_active]), risk contribution by binarized matrix (eg. r= 0.4, 0.5, 0.6), and different imputation cutoff (eg. 0.5, 0.6, 0.7, 0.8)
 
 5. [**_02c_simulate_network_results.R**] Aim: Simulate the network statistics by network density; parallelisation enabled (Number of CPU cores) 
 
