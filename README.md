@@ -1,4 +1,5 @@
 # COVID-19 Pandemic Network Analysis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4408746.svg)](https://doi.org/10.5281/zenodo.4408746)
 
 On Topological Properties of COVID-19: Predicting and Controling Pandemic Risk with Network Statistics
 
