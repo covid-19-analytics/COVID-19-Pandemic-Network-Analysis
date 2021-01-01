@@ -14,19 +14,19 @@ All data records were generated using code developed in R version 3.6.3.
 Make sure you run the codes in the following order. Otherwise, unexpected error/ issues might occur unless you know what you are doing.
 All of the following code required default/ target values to run properly.
 
-1. [_01a_estimate_world_recovery_rate.R] Aim: Estimate world revoery rate by different imputation cutoff 
+1. [**_01a_estimate_world_recovery_rate.R**] Aim: Estimate world revoery rate by different imputation cutoff 
 
-2. [_01b_imputation_recovery_cases_vF.R] Aim: Imputation on recovery cases by estimated daily recovery rate by filtering the countries that are weird (below cutoff)
+2. [**_01b_imputation_recovery_cases_vF.R**] Aim: Imputation on recovery cases by estimated daily recovery rate by filtering the countries that are weird (below cutoff)
 
-3. [_02a_reproduce_final_results_by_weighted_vF.R] Aim: Produce network statistics, risk scores, risk contribution by weighted matrix 
+3. [**_02a_reproduce_final_results_by_weighted_vF.R**] Aim: Produce network statistics, risk scores, risk contribution by weighted matrix 
 
-4. [_02b_reproduce_final_results_by_binarized_vF.R] Aim: Produce network statistics, risk scores, risk contribution by binarized matrix (r= 0.4, 0.5, 0.6), and different imputation cutoff (0.5, 0.6, 0.7, 0.8)
+4. [**_02b_reproduce_final_results_by_binarized_vF.R**] Aim: Produce network statistics, risk scores, risk contribution by binarized matrix (r= 0.4, 0.5, 0.6), and different imputation cutoff (0.5, 0.6, 0.7, 0.8)
 
-5. [_02c_simulate_network_results.R] Aim: Simulate the network statistics by network density
+5. [**_02c_simulate_network_results.R**] Aim: Simulate the network statistics by network density
 
 # Demo run
 
-Please refer to our sample run "_sample_run.R" for the details: 
+Please refer to our sample run "**_sample_run.R**" for the details: 
 
 ```R
 
