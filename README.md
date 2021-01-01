@@ -25,6 +25,10 @@ All of the following code required default/ target values to run properly.
 
 5. [**_02c_simulate_network_results.R**] Aim: Simulate the network statistics by network density
 
+# Program code notations
+
+PRS [mixed]/ SRS [mixed_active]
+
 # Demo run
 
 Please refer to our sample run "**_sample_run.R**" for the details: 
