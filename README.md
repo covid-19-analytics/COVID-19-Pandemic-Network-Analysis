@@ -27,7 +27,8 @@ All of the following code required default/ target values to run properly.
 
 # Program code notations
 
-PRS [mixed]/ SRS [mixed_active]
+* PRS [mixed]
+* SRS [mixed_active]
 
 # Demo run
 
