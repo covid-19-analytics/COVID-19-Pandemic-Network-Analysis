@@ -1,0 +1,217 @@
+﻿regionID,region_CODE,region_WB,region_EN,pop
+1,SGP,Singapore,Singapore,5638676
+2,KOR,"Korea, Rep.",Republic of Korea,51635256
+3,JPN,Japan,Japan,126529100
+4,MYS,Malaysia,Malaysia,31528585
+5,AUS,Australia,Australia,24992369
+6,VNM,Vietnam,Viet Nam,95540395
+7,PHL,Philippines,Philippines,106651922
+8,KHM,Cambodia,Cambodia,16249798
+9,THA,Thailand,Thailand,69428524
+10,IND,India,India,1352617328
+11,NPL,Nepal,Nepal,28087871
+12,LKA,Sri Lanka,Sri Lanka,21670000
+13,USA,United States,United States of America,327167434
+14,CAN,Canada,Canada,37058856
+15,DEU,Germany,Germany,82927922
+16,FRA,France,France,66987244
+17,GBR,United Kingdom,The United Kingdom,66488991
+18,ITA,Italy,Italy,60431283
+19,RUS,Russian Federation,Russian Federation,144478050
+20,ESP,Spain,Spain,46723749
+21,BEL,Belgium,Belgium,11422068
+22,FIN,Finland,Finland,5518050
+23,SWE,Sweden,Sweden,10183175
+24,ARE,United Arab Emirates,United Arab Emirates,9630959
+25,NA,NA,conveyance,NA
+26,EGY,"Egypt, Arab Rep.",Egypt,98423595
+27,IRN,"Iran, Islamic Rep.",Iran,81800269
+28,ISR,Israel,Israel,8883800
+29,LBN,Lebanon,Lebanon,6848925
+30,KWT,Kuwait,Kuwait,4137309
+31,AFG,Afghanistan,Afghanistan,37172386
+32,BHR,Bahrain,Bahrain,1569439
+33,IRQ,Iraq,Iraq,38433600
+34,OMN,Oman,Oman,4829483
+35,DZA,Algeria,Algeria,42228429
+36,AUT,Austria,Austria,8847037
+37,HRV,Croatia,Croatia,4089400
+38,CHE,Switzerland,Switzerland,8516543
+39,BRA,Brazil,Brazil,209469333
+40,DNK,Denmark,Denmark,5797446
+41,EST,Estonia,Estonia,1320884
+42,GEO,Georgia,Georgia,3731000
+43,GRC,Greece,Greece,10727668
+44,NOR,Norway,Norway,5314336
+45,PAK,Pakistan,Pakistan,212215030
+46,ROU,Romania,Romania,19473936
+47,MKD,North Macedonia,North Macedonia,2082958
+48,BLR,Belarus,Belarus,9485386
+49,LTU,Lithuania,Lithuania,2789533
+50,NLD,Netherlands,Netherlands,17231017
+51,NZL,New Zealand,New Zealand,4885500
+52,NGA,Nigeria,Nigeria,195874740
+53,MEX,Mexico,Mexico,126190788
+54,SMR,San Marino,San Marino,33785
+55,AZE,Azerbaijan,Azerbaijan,9942334
+56,ECU,Ecuador,Ecuador,17084357
+57,IRL,Ireland,Ireland,4853506
+58,MCO,Monaco,Monaco,38682
+59,QAT,Qatar,Qatar,2781677
+60,ARM,Armenia,Armenia,2951776
+61,CZE,Czech Republic,Czechia,10625695
+62,DOM,Dominican Republic,Dominican Republic,10627165
+63,LUX,Luxembourg,Luxembourg,607728
+64,ISL,Iceland,Iceland,353574
+65,IDN,Indonesia,Indonesia,267663435
+66,AND,Andorra,Andorra,77006
+67,JOR,Jordan,Jordan,9956011
+68,LVA,Latvia,Latvia,1926542
+69,MAR,Morocco,Morocco,36029138
+70,PRT,Portugal,Portugal,10281762
+71,SAU,Saudi Arabia,Saudi Arabia,33699947
+72,SEN,Senegal,Senegal,15854360
+73,TUN,Tunisia,Tunisia,11565204
+74,ARG,Argentina,Argentina,44494502
+75,CHL,Chile,Chile,18729160
+76,POL,Poland,Poland,37978548
+77,UKR,Ukraine,Ukraine,44622516
+78,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,3323929
+79,GIB,Gibraltar,Gibraltar,33718
+80,HUN,Hungary,Hungary,9768785
+81,SVN,Slovenia,Slovenia,2067372
+82,NA,NA,occupied Palestinian territory,NA
+83,LIE,Liechtenstein,Liechtenstein,37910
+84,MAF,St. Martin (French part),Saint Martin,37264
+85,NA,NA,Saint Barthelemy,NA
+86,BTN,Bhutan,Bhutan,754394
+87,CMR,Cameroon,Cameroon,25216237
+88,SRB,Serbia,Serbia,6982084
+89,ZAF,South Africa,South Africa,57779622
+90,COL,Colombia,Colombia,49648685
+91,NA,NA,Holy See,NA
+92,PER,Peru,Peru,31989256
+93,SVK,Slovak Republic,Slovakia,5447011
+94,TGO,Togo,Togo,7889094
+95,BGR,Bulgaria,Bulgaria,7024216
+96,CRI,Costa Rica,Costa Rica,4999441
+97,FRO,Faroe Islands,Faroe Islands,48497
+98,NA,NA,French Guiana,NA
+99,MDV,Maldives,Maldives,515696
+100,MLT,Malta,Malta,483530
+101,NA,NA,Martinique,NA
+102,MDA,Moldova,Republic of Moldova,3545883
+103,BGD,Bangladesh,Bangladesh,161356039
+104,ALB,Albania,Albania,2866376
+105,PRY,Paraguay,Paraguay,6956071
+106,BRN,Brunei Darussalam,Brunei Darussalam,428962
+107,MNG,Mongolia,Mongolia,3170208
+108,CYP,Cyprus,Cyprus,1189265
+109,NA,NA,Guernsey,NA
+110,PAN,Panama,Panama,4176873
+111,BOL,Bolivia,Bolivia,11353142
+112,JAM,Jamaica,Jamaica,2934855
+113,BFA,Burkina Faso,Burkina Faso,19751535
+114,COD,"Congo, Dem. Rep.",Democratic Republic of the Congo,84068091
+115,PYF,French Polynesia,French Polynesia,277679
+116,TUR,Turkey,Turkey,82319724
+117,HND,Honduras,Honduras,9587522
+118,CIV,Cﾃｴte d'Ivoire,Cote d lvoire,25069229
+119,NA,NA,Jersey,NA
+120,NA,NA,Reunion,NA
+121,VCT,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,110210
+122,CUB,Cuba,Cuba,11338138
+123,GUY,Guyana,Guyana,779004
+124,SDN,Sudan,Sudan,41801533
+125,PRI,Puerto Rico,Puerto Rico,3195153
+126,VEN,"Venezuela, RB",Venezuela,28870195
+127,ATG,Antigua and Barbuda,Antigua and Barbuda,96286
+128,NA,NA,Guadeloupe,NA
+129,TTO,Trinidad and Tobago,Trinidad and Tobago,1389858
+130,CYM,Cayman Islands,Cayman Islands,64174
+131,ETH,Ethiopia,Ethiopia,109224559
+132,GAB,Gabon,Gabon,2119275
+133,GHA,Ghana,Ghana,29767108
+134,GIN,Guinea,Guinea,12414318
+135,KEN,Kenya,Kenya,51393010
+136,CAF,Central African Republic,Central African Republic,4666377
+137,COG,"Congo, Rep.",Congo,5244363
+138,CUW,Curaﾃｧao,Curacao,159849
+139,GNQ,Equatorial Guinea,Equatorial Guinea,1308974
+140,SWZ,Eswatini,Eswatini,1136191
+141,GTM,Guatemala,Guatemala,17247807
+142,KAZ,Kazakhstan,Kazakhstan,18276499
+143,MRT,Mauritania,Mauritania,4403319
+144,NA,NA,Mayotte,NA
+145,NAM,Namibia,Namibia,2448255
+146,RWA,Rwanda,Rwanda,12301939
+147,LCA,St. Lucia,Saint Lucia,181889
+148,SYC,Seychelles,Seychelles,96762
+149,SUR,Suriname,Suriname,575991
+150,URY,Uruguay,Uruguay,3449299
+151,UZB,Uzbekistan,Uzbekistan,32955400
+152,ABW,Aruba,Aruba,105845
+153,BHS,"Bahamas, The",Bahamas,385640
+154,BEN,Benin,Benin,11485048
+155,GUM,Guam,Guam,165768
+156,LBR,Liberia,Liberia,4818977
+157,SOM,Somalia,Somalia,15008154
+158,TZA,Tanzania,United Republic of Tanzania,56318348
+159,VIR,Virgin Islands (U.S.),United States Virgin Islands,106977
+160,BRB,Barbados,Barbados,286641
+161,DJI,Djibouti,Djibouti,958920
+162,GMB,"Gambia, The",Gambia,2280102
+163,GRL,Greenland,Greenland,56025
+164,KGZ,Kyrgyz Republic,Kyrgyzstan,6315800
+165,MUS,Mauritius,Mauritius,1265303
+166,MNE,Montenegro,Montenegro,622345
+167,NA,NA,Montserrat,NA
+168,ZMB,Zambia,Zambia,17351822
+169,BMU,Bermuda,Bermuda,63968
+170,TCD,Chad,Chad,15477751
+171,SLV,El Salvador,El Salvador,6420744
+172,FJI,Fiji,Fiji,883483
+173,NCL,New Caledonia,New Caledonia,284060
+174,NIC,Nicaragua,Nicaragua,6465513
+175,NER,Niger,Niger,22442948
+176,SXM,Sint Maarten (Dutch part),Sint Maarten,40654
+177,,,Angola,
+178,,,Anguilla,
+179,,,Belize,
+180,,,"Bonaire, Sint Eustatius and Saba",
+181,,,Botswana,
+182,,,British Virgin Islands,
+183,,,Burundi,
+184,,,Cabo Verde,
+185,,,China,
+186,,,Comoros,
+187,,,Dominica,
+188,,,Eritrea,
+189,,,Falkland Islands,
+190,,,Grenada,
+191,,,Guinea-Bissau,
+192,,,Haiti,
+193,,,Isle of Man,
+194,,,Kosovo,
+195,,,Lao People's Democratic Republic,
+196,,,Lesotho,
+197,,,Libya,
+198,,,Madagascar,
+199,,,Malawi,
+200,,,Mali,
+201,,,Mozambique,
+202,,,Myanmar,
+203,,,Northern Mariana Islands,
+204,,,Papua New Guinea,
+205,,,Saint Kitts and Nevis,
+206,,,Saint Pierre and Miquelon,
+207,,,Sao Tome and Principe,
+208,,,Sierra Leone,
+209,,,South Sudan,
+210,,,Syrian Arab Republic,
+211,,,Tajikistan,
+212,,,Timor-Leste,
+213,,,Turks and Caicos Islands,
+214,,,Uganda,
+215,,,Yemen,
+216,,,Zimbabwe,

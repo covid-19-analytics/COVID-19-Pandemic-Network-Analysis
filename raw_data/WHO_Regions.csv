@@ -1,0 +1,217 @@
+﻿country_iso3166_alpha2,country_WHO,country_EN,WHO_Region_CODE,WHO_region_name
+DZ,Algeria,Algeria,AFRO,Africa
+AO,Angola,Angola,AFRO,Africa
+BJ,Benin,Benin,AFRO,Africa
+BW,Botswana,Botswana,AFRO,Africa
+BF,Burkina Faso,Burkina Faso,AFRO,Africa
+BI,Burundi,Burundi,AFRO,Africa
+CV,Cabo Verde,Cabo Verde,AFRO,Africa
+CM,Cameroon,Cameroon,AFRO,Africa
+CF,Central African Republic,Central African Republic,AFRO,Africa
+TD,Chad,Chad,AFRO,Africa
+KM,Comoros,Comoros,AFRO,Africa
+CG,Congo,Congo,AFRO,Africa
+CI,Côte d’Ivoire,Cote d lvoire,AFRO,Africa
+CD,Democratic Republic of the Congo,Democratic Republic of the Congo,AFRO,Africa
+GQ,Equatorial Guinea,Equatorial Guinea,AFRO,Africa
+ER,Eritrea,Eritrea,AFRO,Africa
+SZ,Eswatini,Eswatini,AFRO,Africa
+ET,Ethiopia,Ethiopia,AFRO,Africa
+GA,Gabon,Gabon,AFRO,Africa
+GM,Gambia,Gambia,AFRO,Africa
+GH,Ghana,Ghana,AFRO,Africa
+GN,Guinea,Guinea,AFRO,Africa
+GW,Guinea-Bissau,Guinea-Bissau,AFRO,Africa
+KE,Kenya,Kenya,AFRO,Africa
+LS,Lesotho,Lesotho,AFRO,Africa
+LR,Liberia,Liberia,AFRO,Africa
+MG,Madagascar,Madagascar,AFRO,Africa
+MW,Malawi,Malawi,AFRO,Africa
+ML,Mali,Mali,AFRO,Africa
+MR,Mauritania,Mauritania,AFRO,Africa
+MU,Mauritius,Mauritius,AFRO,Africa
+YT,Mayotte,Mayotte,AFRO,Africa
+MZ,Mozambique,Mozambique,AFRO,Africa
+NA,Namibia,Namibia,AFRO,Africa
+NE,Niger,Niger,AFRO,Africa
+NG,Nigeria,Nigeria,AFRO,Africa
+RE,Réunion,Reunion,AFRO,Africa
+RW,Rwanda,Rwanda,AFRO,Africa
+ST,Sao Tome and Principe,Sao Tome and Principe,AFRO,Africa
+SN,Senegal,Senegal,AFRO,Africa
+SC,Seychelles,Seychelles,AFRO,Africa
+SL,Sierra Leone,Sierra Leone,AFRO,Africa
+ZA,South Africa,South Africa,AFRO,Africa
+SS,South Sudan,South Sudan,AFRO,Africa
+TG,Togo,Togo,AFRO,Africa
+UG,Uganda,Uganda,AFRO,Africa
+TZ,United Republic of Tanzania,United Republic of Tanzania,AFRO,Africa
+ZM,Zambia,Zambia,AFRO,Africa
+ZW,Zimbabwe,Zimbabwe,AFRO,Africa
+AI,Anguilla,Anguilla,AMRO,America
+AG,Antigua and Barbuda,Antigua and Barbuda,AMRO,America
+AR,Argentina,Argentina,AMRO,America
+AW,Aruba,Aruba,AMRO,America
+BS,Bahamas,Bahamas,AMRO,America
+BB,Barbados,Barbados,AMRO,America
+BZ,Belize,Belize,AMRO,America
+BM,Bermuda,Bermuda,AMRO,America
+BO,Bolivia (Plurinational State of),Bolivia,AMRO,America
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",AMRO,America
+BR,Brazil,Brazil,AMRO,America
+VG,British Virgin Islands,British Virgin Islands,AMRO,America
+CA,Canada,Canada,AMRO,America
+KY,Cayman Islands,Cayman Islands,AMRO,America
+CL,Chile,Chile,AMRO,America
+CO,Colombia,Colombia,AMRO,America
+CR,Costa Rica,Costa Rica,AMRO,America
+CU,Cuba,Cuba,AMRO,America
+CW,Curacao,Curacao,AMRO,America
+DM,Dominica,Dominica,AMRO,America
+DO,Dominican Republic,Dominican Republic,AMRO,America
+EC,Ecuador,Ecuador,AMRO,America
+SV,El Salvador,El Salvador,AMRO,America
+FK,Falkland Islands (Malvinas),Falkland Islands,AMRO,America
+GF,French Guiana,French Guiana,AMRO,America
+GD,Grenada,Grenada,AMRO,America
+GP,Guadeloupe,Guadeloupe,AMRO,America
+GT,Guatemala,Guatemala,AMRO,America
+GY,Guyana,Guyana,AMRO,America
+HT,Haiti,Haiti,AMRO,America
+HN,Honduras,Honduras,AMRO,America
+JM,Jamaica,Jamaica,AMRO,America
+MQ,Martinique,Martinique,AMRO,America
+MX,Mexico,Mexico,AMRO,America
+MS,Montserrat,Montserrat,AMRO,America
+NI,Nicaragua,Nicaragua,AMRO,America
+PA,Panama,Panama,AMRO,America
+PY,Paraguay,Paraguay,AMRO,America
+PE,Peru,Peru,AMRO,America
+PR,Puerto Rico,Puerto Rico,AMRO,America
+BL,Saint Barthélemy,Saint Barthelemy,AMRO,America
+KN,Saint Kitts and Nevis,Saint Kitts and Nevis,AMRO,America
+LC,Saint Lucia,Saint Lucia,AMRO,America
+MF,Saint Martin,Saint Martin,AMRO,America
+PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,AMRO,America
+VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,AMRO,America
+SX,Sint Maarten,Sint Maarten,AMRO,America
+SR,Suriname,Suriname,AMRO,America
+TT,Trinidad and Tobago,Trinidad and Tobago,AMRO,America
+TC,Turks and Caicos Islands,Turks and Caicos Islands,AMRO,America
+US,United States of America,United States of America,AMRO,America
+VI,United States Virgin Islands,United States Virgin Islands,AMRO,America
+UY,Uruguay,Uruguay,AMRO,America
+VE,Venezuela (Bolivarian Republic of),Venezuela,AMRO,America
+AF,Afghanistan,Afghanistan,EMRO,Eastern Mediterranean
+BH,Bahrain,Bahrain,EMRO,Eastern Mediterranean
+DJ,Djibouti,Djibouti,EMRO,Eastern Mediterranean
+EG,Egypt,Egypt,EMRO,Eastern Mediterranean
+IR,Iran (Islamic Republic of),Iran,EMRO,Eastern Mediterranean
+IQ,Iraq,Iraq,EMRO,Eastern Mediterranean
+JO,Jordan,Jordan,EMRO,Eastern Mediterranean
+KW,Kuwait,Kuwait,EMRO,Eastern Mediterranean
+LB,Lebanon,Lebanon,EMRO,Eastern Mediterranean
+LY,Libya,Libya,EMRO,Eastern Mediterranean
+MA,Morocco,Morocco,EMRO,Eastern Mediterranean
+PS,"occupied Palestinian territory, including east Jerusalem",occupied Palestinian territory,EMRO,Eastern Mediterranean
+OM,Oman,Oman,EMRO,Eastern Mediterranean
+PK,Pakistan,Pakistan,EMRO,Eastern Mediterranean
+QA,Qatar,Qatar,EMRO,Eastern Mediterranean
+SA,Saudi Arabia,Saudi Arabia,EMRO,Eastern Mediterranean
+SO,Somalia,Somalia,EMRO,Eastern Mediterranean
+SD,Sudan,Sudan,EMRO,Eastern Mediterranean
+SY,Syrian Arab Republic,Syrian Arab Republic,EMRO,Eastern Mediterranean
+TN,Tunisia,Tunisia,EMRO,Eastern Mediterranean
+AE,United Arab Emirates,United Arab Emirates,EMRO,Eastern Mediterranean
+YE,Yemen,Yemen,EMRO,Eastern Mediterranean
+AL,Albania,Albania,EURO,Europe
+AD,Andorra,Andorra,EURO,Europe
+AM,Armenia,Armenia,EURO,Europe
+AT,Austria,Austria,EURO,Europe
+AZ,Azerbaijan,Azerbaijan,EURO,Europe
+BY,Belarus,Belarus,EURO,Europe
+BE,Belgium,Belgium,EURO,Europe
+BA,Bosnia and Herzegovina,Bosnia and Herzegovina,EURO,Europe
+BG,Bulgaria,Bulgaria,EURO,Europe
+HR,Croatia,Croatia,EURO,Europe
+CY,Cyprus,Cyprus,EURO,Europe
+CZ,Czechia,Czechia,EURO,Europe
+DK,Denmark,Denmark,EURO,Europe
+EE,Estonia,Estonia,EURO,Europe
+FO,Faroe Islands,Faroe Islands,EURO,Europe
+FI,Finland,Finland,EURO,Europe
+FR,France,France,EURO,Europe
+GE,Georgia,Georgia,EURO,Europe
+DE,Germany,Germany,EURO,Europe
+GI,Gibraltar,Gibraltar,EURO,Europe
+GR,Greece,Greece,EURO,Europe
+GL,Greenland,Greenland,EURO,Europe
+GG,Guernsey,Guernsey,EURO,Europe
+VA,Holy See,Holy See,EURO,Europe
+HU,Hungary,Hungary,EURO,Europe
+IS,Iceland,Iceland,EURO,Europe
+IE,Ireland,Ireland,EURO,Europe
+IM,Isle of Man,Isle of Man,EURO,Europe
+IL,Israel,Israel,EURO,Europe
+IT,Italy,Italy,EURO,Europe
+JE,Jersey,Jersey,EURO,Europe
+KZ,Kazakhstan,Kazakhstan,EURO,Europe
+XK,Kosovo[1],Kosovo,EURO,Europe
+KG,Kyrgyzstan,Kyrgyzstan,EURO,Europe
+LV,Latvia,Latvia,EURO,Europe
+LI,Liechtenstein,Liechtenstein,EURO,Europe
+LT,Lithuania,Lithuania,EURO,Europe
+LU,Luxembourg,Luxembourg,EURO,Europe
+MT,Malta,Malta,EURO,Europe
+MC,Monaco,Monaco,EURO,Europe
+ME,Montenegro,Montenegro,EURO,Europe
+NL,Netherlands,Netherlands,EURO,Europe
+MK,North Macedonia,North Macedonia,EURO,Europe
+NO,Norway,Norway,EURO,Europe
+PL,Poland,Poland,EURO,Europe
+PT,Portugal,Portugal,EURO,Europe
+MD,Republic of Moldova,Republic of Moldova,EURO,Europe
+RO,Romania,Romania,EURO,Europe
+RU,Russian Federation,Russian Federation,EURO,Europe
+SM,San Marino,San Marino,EURO,Europe
+RS,Serbia,Serbia,EURO,Europe
+SK,Slovakia,Slovakia,EURO,Europe
+SI,Slovenia,Slovenia,EURO,Europe
+ES,Spain,Spain,EURO,Europe
+SE,Sweden,Sweden,EURO,Europe
+CH,Switzerland,Switzerland,EURO,Europe
+TJ,Tajikistan,Tajikistan,EURO,Europe
+GB,The United Kingdom,The United Kingdom,EURO,Europe
+TR,Turkey,Turkey,EURO,Europe
+UA,Ukraine,Ukraine,EURO,Europe
+UZ,Uzbekistan,Uzbekistan,EURO,Europe
+BD,Bangladesh,Bangladesh,SEARO,South-East Asia
+BT,Bhutan,Bhutan,SEARO,South-East Asia
+IN,India,India,SEARO,South-East Asia
+ID,Indonesia,Indonesia,SEARO,South-East Asia
+MV,Maldives,Maldives,SEARO,South-East Asia
+MM,Myanmar,Myanmar,SEARO,South-East Asia
+NP,Nepal,Nepal,SEARO,South-East Asia
+LK,Sri Lanka,Sri Lanka,SEARO,South-East Asia
+TH,Thailand,Thailand,SEARO,South-East Asia
+TL,Timor-Leste,Timor-Leste,SEARO,South-East Asia
+AU,Australia,Australia,WPRO,Western Pacific
+BN,Brunei Darussalam,Brunei Darussalam,WPRO,Western Pacific
+KH,Cambodia,Cambodia,WPRO,Western Pacific
+CN,China,China,WPRO,Western Pacific
+FJ,Fiji,Fiji,WPRO,Western Pacific
+PF,French Polynesia,French Polynesia,WPRO,Western Pacific
+GU,Guam,Guam,WPRO,Western Pacific
+JP,Japan,Japan,WPRO,Western Pacific
+LA,Lao People's Democratic Republic,Lao People's Democratic Republic,WPRO,Western Pacific
+MY,Malaysia,Malaysia,WPRO,Western Pacific
+MN,Mongolia,Mongolia,WPRO,Western Pacific
+NC,New Caledonia,New Caledonia,WPRO,Western Pacific
+NZ,New Zealand,New Zealand,WPRO,Western Pacific
+MP,Northern Mariana Islands (Commonwealth of the),Northern Mariana Islands,WPRO,Western Pacific
+PG,Papua New Guinea,Papua New Guinea,WPRO,Western Pacific
+PH,Philippines,Philippines,WPRO,Western Pacific
+KR,Republic of Korea,Republic of Korea,WPRO,Western Pacific
+SG,Singapore,Singapore,WPRO,Western Pacific
+VN,Viet Nam,Viet Nam,WPRO,Western Pacific
+NA,International conveyance (Diamond Princess),conveyance,NA,NA
