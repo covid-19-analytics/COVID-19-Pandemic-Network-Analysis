@@ -16,7 +16,7 @@ proj_name <- ""
 target_date_str <- "Dec29"
 
 # We will just perform imputation on the data points that started from May 2020 -----------
-imputation_date_from <- ymd("2020-05-01") 
+imputation_date_from <- lubridate::ymd("2020-05-01") 
 
 v_cutoff <- seq(0.5, 0.8, by= 0.1) # imputation cutoff(s)
 
@@ -34,7 +34,7 @@ proj_name <- ""
 target_date_str <- "Dec29"
 
 # We will just perform imputation on the data points that started from May 2020 -----------
-imputation_date_from <- ymd("2020-05-01") 
+imputation_date_from <- lubridate::ymd("2020-05-01") 
 
 v_cutoff <- seq(0.5, 0.8, by= 0.1) # imputation cutoff(s)
 
@@ -56,7 +56,7 @@ proj_name <- ""
 cutoff_I <- 0.7 # imputation cutoff
 
 date_str <- "Dec29"
-target_as_of_date <- ymd("2020-12-29")
+target_as_of_date <- lubridate::ymd("2020-12-29")
 
 source(here::here("", "R", "_02a_reproduce_final_results_by_weighted_vF.R"))
 rm(list= ls())
@@ -77,7 +77,7 @@ for (tmp_cutoff in v_cutoff) {
   proj_name <- ""
   
   date_str <- "Dec29"
-  target_as_of_date <- ymd("2020-12-29")
+  target_as_of_date <- lubridate::ymd("2020-12-29")
   
   cutoff_I <- tmp_cutoff
   threshold_val <- 0.5
@@ -98,7 +98,7 @@ for (tmp_threshold in v_threshold) {
   proj_name <- ""
   
   date_str <- "Dec29"
-  target_as_of_date <- ymd("2020-12-29")
+  target_as_of_date <- lubridate::ymd("2020-12-29")
   
   cutoff_I <- 0.7
   threshold_val <- tmp_threshold
@@ -130,7 +130,7 @@ set.seed(seed)
 NUM_CORE <- 2 
 
 date_str <- "Dec29"
-date_end <- target_as_of_date <- ymd("2020-12-29")
+date_end <- target_as_of_date <- lubridate::ymd("2020-12-29")
 
 threshold_val <- 0.5 # correlation threshold
 cutoff_I <- 0.7 # imputation cutoff
